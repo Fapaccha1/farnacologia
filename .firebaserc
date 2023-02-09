@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "utpl-pharmacology": {
+      "hosting": {
+        "farmacologia-webapp": [
+          "utpl-pharmacology"
+        ]
+      }
+    },
+    "liv-farmacologia": {
+      "hosting": {
+        "farmacologia-webapp": [
+          "liv-farmacologia"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "liv-farmacologia"
+  }
+}
